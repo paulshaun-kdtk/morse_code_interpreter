@@ -40,7 +40,7 @@
 # 📖 [Encarta & Shaun Morse Code Interpreter] <a name="about-project"></a>
 
 
-**Encarta & Shaun Morse Code Interpreter** is a project about Morse Code Interpretation.
+**Encarta & Shaun Morse Code Interpreter** is a backend project done in Ruby for Morse Code Interpretation.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -138,9 +138,7 @@ You can deploy this project using:
 
 👤 **Shaun Details**
 
-- GitHub: [@shaun](https://github.com/shaun)
-- Twitter: [@shaun](https://twitter.com/shaun)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shaun/)
+- GitHub: [@shaun](https://github.com/paulshaun-kdtk)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -196,7 +194,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

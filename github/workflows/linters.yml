@@ -6,7 +6,11 @@ jobs:
   rubocop:
     name: Rubocop
     runs-on: ubuntu-22.04
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> 84ca468fadfa31a58a589d1b856ed0d2252662a1
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-ruby@v1
