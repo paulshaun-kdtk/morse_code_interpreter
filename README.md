@@ -188,7 +188,7 @@ Contributions, issues, and feature requests are welcome!
 
 - **What new features should be expected in the next release of the project?**
 
-  - I am currently working on adding **Add animal immunization**.
+  - I am currently working on adding **More Complex Morse Codes**.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
